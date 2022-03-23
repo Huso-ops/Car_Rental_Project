@@ -1,0 +1,15 @@
+C:\Users\huso_\source\repos\RecapDemoCarService\Entity\bin\Debug\net5.0\Entity.deps.json
+C:\Users\huso_\source\repos\RecapDemoCarService\Entity\bin\Debug\net5.0\Entity.dll
+C:\Users\huso_\source\repos\RecapDemoCarService\Entity\bin\Debug\net5.0\ref\Entity.dll
+C:\Users\huso_\source\repos\RecapDemoCarService\Entity\bin\Debug\net5.0\Entity.pdb
+C:\Users\huso_\source\repos\RecapDemoCarService\Entity\bin\Debug\net5.0\Core.dll
+C:\Users\huso_\source\repos\RecapDemoCarService\Entity\bin\Debug\net5.0\Core.pdb
+C:\Users\huso_\source\repos\RecapDemoCarService\Entity\obj\Debug\net5.0\Entity.csproj.AssemblyReference.cache
+C:\Users\huso_\source\repos\RecapDemoCarService\Entity\obj\Debug\net5.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huso_\source\repos\RecapDemoCarService\Entity\obj\Debug\net5.0\Entity.AssemblyInfoInputs.cache
+C:\Users\huso_\source\repos\RecapDemoCarService\Entity\obj\Debug\net5.0\Entity.AssemblyInfo.cs
+C:\Users\huso_\source\repos\RecapDemoCarService\Entity\obj\Debug\net5.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\huso_\source\repos\RecapDemoCarService\Entity\obj\Debug\net5.0\Entity.csproj.CopyComplete
+C:\Users\huso_\source\repos\RecapDemoCarService\Entity\obj\Debug\net5.0\Entity.dll
+C:\Users\huso_\source\repos\RecapDemoCarService\Entity\obj\Debug\net5.0\ref\Entity.dll
+C:\Users\huso_\source\repos\RecapDemoCarService\Entity\obj\Debug\net5.0\Entity.pdb
